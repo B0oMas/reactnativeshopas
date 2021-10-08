@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217174670229",
+    "project_id": "reactnativeshopas-72926",
+    "storage_bucket": "reactnativeshopas-72926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217174670229:android:f3428771367d6aa604949c",
+        "android_client_info": {
+          "package_name": "com.reactnativeshopas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217174670229-i01fu79itdrjqtelisaae3dpjrmp56v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYwVmjnB-enFffpJUFUA9LBqFedLAPxRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217174670229-i01fu79itdrjqtelisaae3dpjrmp56v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
